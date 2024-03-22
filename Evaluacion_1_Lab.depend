@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1711032449 source:c:\users\rodri\documents\progrmación ii\evaluacion_1_lab\main.cpp
+	<iostream>
+	<stdlib.h>
+	"Cliente.h"
+	"Prestamo.h"
+	"Fecha.h"
+	"Pago.h"
+
+1711035566 source:c:\users\rodri\documents\progrmación ii\evaluacion_1_lab\src\fecha.cpp
+	"Fecha.h"
+	<string.h>
+
+1711034325 c:\users\rodri\documents\progrmación ii\evaluacion_1_lab\include\fecha.h
+	<iostream>
+	<string.h>
+
+1711035952 source:c:\users\rodri\documents\progrmación ii\evaluacion_1_lab\src\pago.cpp
+	"Pago.h"
+	<iostream>
+	<string.h>
+	"Fecha.h"
+
+1710800707 c:\users\rodri\documents\progrmación ii\evaluacion_1_lab\include\pago.h
+	<iostream>
+	<string.h>
+	"Fecha.h"
+
+1711036314 source:c:\users\rodri\documents\progrmación ii\evaluacion_1_lab\src\prestamo.cpp
+	"Prestamo.h"
+	"Cliente.h"
+	"Pago.h"
+	<stdlib.h>
+	<iostream>
+
+1710801241 c:\users\rodri\documents\progrmación ii\evaluacion_1_lab\include\prestamo.h
+	"Cliente.h"
+	"Pago.h"
+	<stdlib.h>
+	<iostream>
+
+1711035878 source:c:\users\rodri\documents\progrmación ii\evaluacion_1_lab\src\cliente.cpp
+	"Cliente.h"
+	<string.h>
+
+1710767598 c:\users\rodri\documents\progrmación ii\evaluacion_1_lab\include\cliente.h
+	<iostream>
+	<string.h>
+
